@@ -1,0 +1,31 @@
+
+footer{
+    background-color: lightslategrey;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+.nav-item{
+   padding-right: 60px;
+}
+.row{
+    margin: 40px;
+}
+.col-8{
+   margin-left: 300px;
+}
+.align-text-top{
+    margin-left: 40px;
+}
+.bloco{
+    height: 200px;
+}
+.margem{
+    margin-left: 100px;
+}
+  
+
+  
+  
+
+

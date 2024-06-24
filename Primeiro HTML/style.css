@@ -1,0 +1,52 @@
+
+.progress-html{
+    width: 40%;
+    height: 30px;
+    padding: 5px;
+    background-color: lightblue;
+    display: flex;
+}
+.progress-html::before{
+    content: "";
+    width: 95%;
+    background-color: rgb(134, 190, 241);
+}
+.progress-css{
+    width: 40%;
+    height: 30px;
+    padding: 5px;
+    background-color: lightblue;
+    display: flex;
+}
+.progress-css::before{
+    content: "";
+    width: 90%;
+    background-color: rgb(134, 190, 241);
+}
+.progress-javascript{
+    width: 40%;
+    height: 30px;
+    padding: 5px;
+    background-color: lightblue;
+    display: flex;
+}
+.progress-javascript::before{
+    content: "";
+    width: 0%;
+    background-color: rgb(75, 125, 172);
+}
+img{
+    width: 100%;
+    height: 240px;
+}
+.header {
+    background-color: rgb(19, 103, 117);
+    padding: 15px;
+    display: flex;
+    align-items: center !important;
+}
+
+
+
+
+
